@@ -47,3 +47,5 @@ This project is a mobile app designed for managing the inventory of a beauty sto
    ```bash
    https://github.com/mohammadzaheer-cyber/management_app.git
    cd managementapp
+   npm install
+   npm run start
