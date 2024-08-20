@@ -45,5 +45,5 @@ This project is a mobile app designed for managing the inventory of a beauty sto
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/inventory-management-system.git
-   cd inventory-management-system
+   https://github.com/mohammadzaheer-cyber/management_app.git
+   cd managementapp
